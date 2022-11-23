@@ -1,0 +1,22 @@
+#demo{
+        margin: 15px;
+        padding: 15px;
+        border: black 6px solid;    
+      }
+td{
+    border: blue 3px solid;    
+}
+tr {
+    margin: 15px;
+    padding: 15px;
+
+    border: green 5px solid;
+  }
+  body{
+    background-color: aquamarine;
+
+  }
+  #texto{
+    color: white;
+    letter-spacing: 2px;
+  }

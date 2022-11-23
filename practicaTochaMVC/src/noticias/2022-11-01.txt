@@ -1,0 +1,28 @@
+VALORANT
+
+¿Cómo os va en el Episodio 5: Acto III? En cualquier caso, las notas de versión son breves esta vez, ya que estamos preparando algo grande para la versión 5.10.
+ERRORES
+
+Agentes
+
+Hemos corregido un error que provocaba que, a veces, la habilidad Cascada de Harbor desapareciera al mirar hacia otro lado (se corrigió con la versión 5.08).
+
+Hemos corregido un error que provocaba que la barrer de la habilidad Cala de Harbor no cegara a los jugadores a la distancia correcta (se corrigió con la versión 5.08).
+
+Hemos corregido un error que provocaba que la habilidad Marea alta de Harbor tuviera grandes huecos cuando se lanzaba en ubicaciones concretas del mapa.
+
+Hemos corregido un error que provocaba que los géiseres de la habilidad Ajuste de cuentas de Harbor no aparecieran en la zona donde el jugador estaba.
+
+A lo largo de este año, hemos ido mejorando periódicamente los Buscadores de Skye para que llegaran a sus objetivos de forma más eficaz y fiable.
+
+Hemos realizado pequeños ajustes a la forma que tienen los Buscadores de Skye de rodear los obstáculos una vez tienen visualmente a su objetivo.
+
+Los Buscadores de Skye ya no limitan la visión de los enemigos intangibles cuando estos son golpeados. Esto incluye a Reyna durante Despreciar y a Yoru durante Viaje interdimensional.
+
+Hemos corregido un problema que provocaba que Yoru pudiera entrar en estado de sigilo y volverse intangible si resultaba detenido mientras lanzaba Viaje interdimensional. Ahora la detención sí que interrumpe el lanzamiento.
+
+Hemos corregido un problema que provocaba que Fade pudiera activar los proyectiles de Tormento y Apresar mientras estaba bajo supresión.
+
+Hemos corregido un problema que provocaba que Reyna se curase con los asesinatos durante Emperatriz aunque estuviera bajo supresión.
+
+Hemos corregido un problema que provocaba que Sage pudiera romper su Barrera de forma inmediata si la lanzaba mientras estaba en una esquina. 
