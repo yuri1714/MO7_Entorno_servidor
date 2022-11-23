@@ -97,7 +97,7 @@ function main(): void
     $local_image_array = array_values(array_filter($local_file_array, $check_is_image));
 
     // 3. Rewrite paths
-    $make_web_link   = fn ($file) => join_paths('/img/', basename($file));
+    $make_web_link   = fn ($file) => join_paths('./img/', basename($file));
     $web_image_array = array_map($make_web_link, $local_image_array);
 
     // 4. Create text links
